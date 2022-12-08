@@ -1,5 +1,0 @@
-streamlit
-typing_extensions
-numpy
-pandas
-tensorflow-cpu
